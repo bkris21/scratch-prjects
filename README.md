@@ -89,7 +89,15 @@ A játék megoldását eléred itt: https://scratch.mit.edu/projects/642152647/ 
 
 
 #### Megvalósítás
-A platformot x tengely mentén lehessen mozgatni a nyilak segítségével. A labda össze-vissza kell hogy mozogjon a szélek között. Elindul egy irányba (nem gyorsul) és ha széléhez ér visszapattan. Ehhez használd a `ha szélen vagy pattanj vissza` utasítást. A platformról való visszapattanás megvalósításához célszerű a platform érintésekor a labda irányát megváltoztatni a megfelelő szöggel.
+A platformot x tengely mentén lehessen mozgatni a nyilak segítségével. A labda össze-vissza kell hogy mozogjon a szélek között. Elindul egy irányba (nem gyorsul) és ha széléhez ér visszapattan. Ehhez használd a `ha szélen vagy pattanj vissza` utasítást. A platformról való visszapattanás megvalósításához célszerű a platform érintésekor a labda irányát megváltoztatni a megfelelő szöggel.<br>
+
+Ha a labda a platform alá ér, akkor szépen lassan tűnjön el. Majd ugorjon be újra középre és indulhat újra a játék. <br>
+
+A haladó játékhoz nem kell 24 szerepőt felvenni, elég egy darab téglát. A vezérlés között található egy utasítás a `készíts másolatot magadról`. Ekkor a szereplő készít magáról egy klónt. Készíts el így 24 klónt (3 sor és 8 oszlop). Van lehetőség a másolathoz is kódot írni, ezt a vezérlés `másolatként kezdésekor` utasítás alatt tudod megtenni.<br>
+
+A feladat annyival bővül, hogy a labdának a téglákról is vissza kell pattania és ha érintett egyet akkor az tűnjön el. Ha eltűnt mind a 24 a játékos nyert. Ezt jelenítsük is meg a képernyőn egy felirat formájában. Ha azonban háromszor leesett a labda a játékos vesztett.  
+
+
 
 
 
