@@ -1,11 +1,11 @@
 # Feladatok
 
-## Baseballgame
+## 1. Baseballgame
 
 Javasolom, hogy ezt a feladatot egyes videók megnézése után, részletekben valósítsd meg. Minden feladatrészletnél jelzem, hogy melyik videó után érdemes megvalósítani!
 
 A játékról: <br>
-A feladatod egy olyan játék megvalósítása lesz, ahol egy baseball labdával kell, egyre gyorsabban felfelé szálló lufikat eltalálnod. 
+A feladatod egy olyan játék megvalósítása lesz, ahol egy baseball labdával kell, egyre gyorsabban felfelé szálló lufikat eltalálnod. A játék megoldását megtalálod itt: https://scratch.mit.edu/projects/642064569/   vagy a solutions könyvtárban. 
 
 
 ### A játék előkészítése
