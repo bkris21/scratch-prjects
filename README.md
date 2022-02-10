@@ -85,7 +85,7 @@ A játék egy klasszikus pong játék, ahol egy platformot kell mozgatni és meg
 ##### Haladó:
 A játéktér tetején téglákat helyezünk el és a labdával ezeket kell széttörni. A játék addig megy, amíg mindet szét nem törtük.<br>
 
-A játék megoldását eléred itt: vagy a solutions mappában. 
+A játék megoldását eléred itt: https://scratch.mit.edu/projects/642152647/ vagy a solutions mappában. 
 
 
 #### Megvalósítás
