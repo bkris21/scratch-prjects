@@ -80,7 +80,7 @@ Ezt a feladatot a videók megnézése után önállóan oldd meg!
 #### A játék rövid leírása
 A játék célja, hogy a különböző mozgásokat tudd gyakorolni. A feladat az, hogy a macskával lehessen mozogni a játéktéren és szembe jövő elemeket lehessen átugrani. <br>
 
-Az álltalam készített játék megtalálható: vagy a solutions mappában.
+Az álltalam készített játék megtalálható: https://scratch.mit.edu/projects/642883821/ vagy a solutions mappában.
 
 #### Megvalósítás
 A macska mozgásánál valósítsd meg hogy ahogy mozgunk a macska "szedje a lábait" valamint mindig arra nézzen amerre megy. (Ehhez az iránynál be tudod állítani, hogy ne forgatást hajtsunk végre hanem tükrözést). A szóköz lenyomására a macska ugorjon. Az ugrás megvalósításához figylj arra, hogy nagy sebességgel ugorjon el, majd a csúcspontig lassuljon és onnantól kezdve ismét gyorsuljon!<br>
@@ -89,11 +89,8 @@ Ha a macska elérte a játéktér szélét, váltsunk hátteret és ugorjunk ism
 
 Legyen valamilyen "ellenség", ami random pillanatokban szebejön, és ha a macska nem képes átugorni akkor kerüljünk vissza a játék elejére. <br>
 
-Nem kötelező az én megoldásomat megvalósítani, a lényeg hogy a macska minél több különböző mozgásra legyen képes!
+Nem kötelező az én megoldásomat megvalósítani, a lényeg hogy a macska minél több különböző mozgásra legyen képes! Figyelj arra is a megvalósításnál, hogy használj saját blokkokat!
 
-
-
- 
 
 ## 3. Pong-Game
 Ezt a feladatot a videók megnézése után önállóan oldd meg!
