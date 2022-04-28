@@ -13,7 +13,7 @@ A játkban 4 szereplőre lesz szükséged. A következőket megalálod a már el
  Batter			|  Ballon 			| Baseball		| Saját
 :-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:
 ![Beállítani](img/batter.png) | ![Beállítani](img/balloon.png) | ![Beállítani](img/baseball.png) | ![Rajzolni](img/celkereszt.png)<br>
-Méret: 50 % | Méret: 50 % | Méret: 30 % | Méret: kb mint a Basball
+Méret: 50 % | Méret: 50 % | Méret: 30 % | Méret: kb mint a Baseball
 Pozíció: (0, -111) | később | később | később 
 
 Állítsd be a játék hátterét a `Baseball 1` nevű háttérre. 
