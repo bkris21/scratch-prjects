@@ -47,14 +47,14 @@ A lufi mozgását kiszervezzük egy külön blokkba. A blokk neve lehet "LufiMoz
 
 Tipp: Valahányszor legenerálod a lufi helyét nézd meg, hogy megfelelő pozícióban van-e és ha nincs generáld újra. <br>
 
-Animáljuk meg a `Batter` szereplő mozgását. Mint látható a szereplőnek négy különbőző jelmeze van, aminek egymásutáni megjelenítése egy labda elütését ábrázolja. Amikor lenyomjuk a szóközt, a szereplő 4 különböző lejmezét jelenítsük meg egymás után. Minden jelmez váltás között várjunk 0.1 másodpercet. Lehetőség szerint ezt ciklusban tegyük meg!
+Animáljuk meg a `Batter` szereplő mozgását. Mint látható a szereplőnek négy különbőző jelmeze van, aminek egymásutáni megjelenítése egy labda elütését ábrázolja. Amikor lenyomjuk a szóközt, a szereplő 4 különböző jelmezét jelenítsük meg egymás után. Minden jelmez váltás között várjunk 0.1 másodpercet. Lehetőség szerint ezt ciklusban tegyük meg!
 
 #### Parméterátadásról részletesen
 Azt fogjuk megoldani, hogy minden 3. lufi után a lufi sebessége növekedjen, azaz egyre gyorsabban száljanak fel a lufik. <br>
 
 Ehhez először vegyünk fel egy változót "lufisebesség" néven és a játék kezdetén állítsuk kettőre.<br>
 
-Szerkeszzük a "LufiMozgás" blokkot úgy, hogy várjon egy szám paramétert aminek neve legyen sebsség. Módosítsuk a blokkot, hogy a lufi mindig a paraméternek megfelelően menjen felfelé. Amikor a blokkot használjuk az előbb létrehozott "lufisebesség" változót adjuk át neki. <br>
+Szerkesszük a "LufiMozgás" blokkot úgy, hogy várjon egy szám paramétert aminek neve legyen sebesség. Módosítsuk a blokkot, hogy a lufi mindig a paraméternek megfelelően menjen felfelé. Amikor a blokkot használjuk az előbb létrehozott "lufisebesség" változót adjuk át neki. <br>
 
 A fő blokkunkban minden "LufiMozgás" végrehajtás után vizsgáljuk meg, hogy hányadik lufinál tartunk és minden harmadik lufiután növeljük a sebességet 0.5-tel (vagy amennyivel gondolod). Az ellenőrzéshez használd a "lufidb" változót. 
 
