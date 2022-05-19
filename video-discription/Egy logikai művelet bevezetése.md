@@ -1,0 +1,1 @@
+Az előző videóhoz képest annyival bővült a kód, hogy a narancsok nem rögtön egymás után esnek, hanem két narancs között eltelik 1 másodperc. Ezt a várj utasítás segítségével oldjuk meg. Az esés végén pedig eltüntetem a narancsot, hogy ne maradjon a képernyőn majd a következő narancsot az esés kezdetén újra megjelenítem. 
