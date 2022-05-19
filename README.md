@@ -87,7 +87,7 @@ A macska mozgásánál valósítsd meg hogy ahogy mozgunk a macska "szedje a lá
 
 Ha a macska elérte a játéktér szélét, váltsunk hátteret és ugorjunk ismét a jobb szélére a játéktérnek, mintha egy új pályára értünk volna. <br>
 
-Legyen valamilyen "ellenség", ami random pillanatokban szebejön, és ha a macska nem képes átugorni akkor kerüljünk vissza a játék elejére. <br>
+Legyen valamilyen "ellenség", ami random pillanatokban szembe jön, és ha a macska nem képes átugorni akkor kerüljünk vissza a játék elejére. <br>
 
 Nem kötelező az én megoldásomat megvalósítani, a lényeg hogy a macska minél több különböző mozgásra legyen képes! Figyelj arra is a megvalósításnál, hogy használj saját blokkokat!
 
