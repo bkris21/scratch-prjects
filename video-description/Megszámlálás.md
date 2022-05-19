@@ -1,0 +1,1 @@
+Az előző videóból kimaradt, de itt látható, hogy az összegzés után az összpontszámot is megjelenítem a képernyőn!
